@@ -5,7 +5,7 @@ const myarr = [0,1,2,3,4,5]
 console.log(myarr[1]) //indexinghote hai 0 se
 
 //shallow copy matlab ki jo bhi mai naya chenge karuga woh meri old array mai bhi channgehoge
-// deep copy iska ulta hai , the do not share the same references
+// deep copy iska ulta hai , the do not share the same references 
 //arrays k andar bhi hame prototypes milte hai 
 const myheroes = ["shaktiman","babu"]
 
