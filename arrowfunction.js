@@ -1,7 +1,7 @@
 
 const user ={
     username: "hitesh",
-    price: 999,
+    price: 999, 
 
     welcomemessage: function(){
         console.log(`${this.username} , welcome to website`)
